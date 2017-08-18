@@ -32,3 +32,7 @@ sysinfo.txt
 # Builds
 *.apk
 *.unitypackage
+Assets/StreamingAssets/
+Assets/SpeechToText/
+Assets/StreamingAssets.meta
+Assets/SpeechToText.meta
